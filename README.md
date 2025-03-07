@@ -1,4 +1,9 @@
 ## Hi there 👋
+## I’m an University Student and i am currently learning C++, C#, and java
+## I am Vietnamese but i have medium proficiency in English and have basic knowledge of Chinese and Korean
+## 🤔 I’m looking for help with my codes as i am still lacking much
+## 😄 Pronouns: He/Him
+## 📫 How to reach me: xen230@gmail.com
 
 <!--
 **Koffeeine/Koffeeine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
